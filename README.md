@@ -1,7 +1,7 @@
 # Example "One-Off" DuckDB Data Analysis Project
 
 > [!CAUTION]  
-> Some of the below termainal commands assume Mac/Linux. Translation to Windows OS should be a piece of cake.
+> Some of the below terminal commands assume Mac/Linux. Translation to Windows OS should be a piece of cake.
 
 **[🔗 Example code here](./example.ipynb).**
 
