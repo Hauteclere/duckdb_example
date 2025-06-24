@@ -1,6 +1,6 @@
 # Example "One-Off" DuckDB Data Analysis Project
 
-> [!NOTE]  
+> [!CAUTION]  
 > (assumes Mac/Linux. Translation to Windows OS should be pretty simple)
 
 **[🔗 Example code here](./example.ipynb).**
@@ -41,8 +41,8 @@
     ![](./img/create_file.png)
 
 9.  Select `.venv` as kernel:
-   - If the "Select Kernel" button appears at the top right of the editor, click it
-   - Select "Python Environments"
-   - Select your `.venv` file
+    - If the "Select Kernel" button appears at the top right of the editor, click it
+    - Select "Python Environments"
+    - Select your `.venv` file
 
 10. Get coding. 
